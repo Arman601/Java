@@ -6,10 +6,10 @@ public class prime{
     Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         if( a%2 == 0){
-            System.out.println("this is a prime number");
+            System.out.println("EVEN NUMBER");
         }
         else {
-            System.out.println("Not Prime");
+            System.out.println("ODD NUMBER");
 
         }
        
